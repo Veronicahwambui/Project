@@ -1,9 +1,6 @@
 body{
     background-color: cornsilk;
-     /* background-image:  url("picure/pexels-photo-3184291.jpeg"); */
-      /* linear-gradient(rgba(0,0,0,0,6),rgba(0,0,0,0,6,)), */
-     /* url("picure/images.jpeg"); */
-    /* height: 60px; */
+    
     background-size: cover;
     background-position: center;
 }
