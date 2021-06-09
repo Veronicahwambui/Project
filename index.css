@@ -1,5 +1,6 @@
-body{
- background-image:url(https://i.pinimg.com/474x/93/86/f0/9386f0b020a9fc0f5b82b066e592709a.jpg) ;
+#enter{
+
+ background-image:url("picure/photo-1602080858428-57174f9431cf.jpeg") ;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -55,4 +56,12 @@ body{
 }
 .form.register-form{
     display: none;
+}
+/* #back{
+    background-color: aqua;
+} */
+h2{
+    text-align: center;
+    padding: 10%;
+    font-size: 100px;
 }
